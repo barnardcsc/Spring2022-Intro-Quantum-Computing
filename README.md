@@ -18,6 +18,6 @@ The workshop aims to give attendees enough of a background (broad context and ba
 - Experience interpreting measurement outputs of quantum circuits.
 
 ## In this repository, you will find the following materials:
-- *Intro Quantum Computing Slides* (slidedeck): The slidedeck used for the presentation portion of the workshop.
+- *Intro Quantum Computing Slides* (slidedeck): The slidedeck used for the presentation portion of the workshop (a simplified intro to quantum computing).
 - *Intro Quantum Computing Template.ipynb* (student template): A workbook for students.  At the beginning of the workshop, students should make a copy so that they can work directly on their version of this file during the workshop.  Contains some text to guide the flow of the workshop and comments to structure code cells, but contains minimal pre-written code.
 - *Intro Quantum Computing Key.ipynb* (key): Identical to the student template, but code cells are complete.  Serves as a key to reference (as a print-out or on another screen) while working through the workshop.
